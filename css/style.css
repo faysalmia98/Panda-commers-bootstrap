@@ -1,0 +1,27 @@
+.panda-slide {
+    background-color: #fcebe9;
+    border-radius: 1em;
+}
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.categoris img {
+    width: 100px;
+}
+.panda-card {
+    border: 0;
+}
+.panda-card-footer {
+    background-color: #FFFFFF;
+    border: 0;
+}
+.subcride-section {
+    height: 300px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
